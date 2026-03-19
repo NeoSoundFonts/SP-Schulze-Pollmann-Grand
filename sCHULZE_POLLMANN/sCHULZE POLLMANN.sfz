@@ -2,17 +2,17 @@
 // Name      : sCHULZE POLLMANN.sf2
 // Author    : Simone Piervergili
 // Copyright : Libre
-// Date      : 2026/03/19
+// Date      : 2026/03/20
 // Comment   : 
 
 <group>
 pan=-100
-amplfo_freq=5.00104
-fillfo_freq=5.00104
-pitchlfo_freq=5.00104
 ampeg_release=1
 loop_mode=no_loop
 ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
 fil_type=lpf_2p
 cutoff=19913
 
@@ -401,6 +401,7 @@ sample=samples\SP-Piano 091R.wav
 lokey=90 hikey=91
 pitch_keycenter=91
 lovel=1 hivel=127
+ampeg_release=9.99818
 offset=0
 end=322731
 loop_start=0
@@ -411,6 +412,7 @@ sample=samples\SP-Piano 093R.wav
 lokey=92 hikey=93
 pitch_keycenter=93
 lovel=1 hivel=127
+ampeg_release=9.99818
 offset=0
 end=244583
 loop_start=0
@@ -421,6 +423,7 @@ sample=samples\SP-Piano 095R.wav
 lokey=94 hikey=95
 pitch_keycenter=95
 lovel=1 hivel=127
+ampeg_release=9.99818
 offset=0
 end=137517
 loop_start=0
@@ -431,6 +434,7 @@ sample=samples\SP-Piano 096R.wav
 lokey=96 hikey=96
 pitch_keycenter=96
 lovel=1 hivel=127
+ampeg_release=9.99818
 offset=0
 end=197402
 loop_start=0
@@ -441,6 +445,7 @@ sample=samples\SP-Piano 098R.wav
 lokey=97 hikey=98
 pitch_keycenter=98
 lovel=1 hivel=127
+ampeg_release=9.99818
 offset=0
 end=164026
 loop_start=0
@@ -451,6 +456,7 @@ sample=samples\SP-Piano 100R.wav
 lokey=99 hikey=100
 pitch_keycenter=100
 lovel=1 hivel=127
+ampeg_release=9.99818
 offset=0
 end=157950
 loop_start=0
@@ -461,6 +467,7 @@ sample=samples\SP-Piano 101R.wav
 lokey=101 hikey=101
 pitch_keycenter=101
 lovel=1 hivel=127
+ampeg_release=9.99818
 offset=0
 end=146613
 loop_start=0
@@ -471,6 +478,7 @@ sample=samples\SP-Piano 103R.wav
 lokey=102 hikey=103
 pitch_keycenter=103
 lovel=1 hivel=127
+ampeg_release=9.99818
 offset=0
 end=177662
 loop_start=0
@@ -481,6 +489,7 @@ sample=samples\SP-Piano 105R.wav
 lokey=104 hikey=105
 pitch_keycenter=105
 lovel=1 hivel=127
+ampeg_release=9.99818
 offset=0
 end=142279
 loop_start=0
@@ -491,6 +500,7 @@ sample=samples\SP-Piano 107R.wav
 lokey=106 hikey=107
 pitch_keycenter=107
 lovel=1 hivel=127
+ampeg_release=9.99818
 offset=0
 end=132154
 loop_start=0
@@ -498,9 +508,10 @@ loop_end=132154
 
 <region>
 sample=samples\SP-Piano 108R.wav
-lokey=108 hikey=120
+lokey=108 hikey=127
 pitch_keycenter=108
 lovel=1 hivel=127
+ampeg_release=9.99818
 offset=0
 end=140123
 loop_start=0
@@ -508,12 +519,12 @@ loop_end=140123
 
 <group>
 pan=100
-amplfo_freq=5.00104
-fillfo_freq=5.00104
-pitchlfo_freq=5.00104
 ampeg_release=1
 loop_mode=no_loop
 ampeg_attack=0.001
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
 fil_type=lpf_2p
 cutoff=19913
 
@@ -902,6 +913,7 @@ sample=samples\SP-Piano 091L.wav
 lokey=90 hikey=91
 pitch_keycenter=91
 lovel=1 hivel=127
+ampeg_release=9.99818
 offset=0
 end=322731
 loop_start=0
@@ -912,6 +924,7 @@ sample=samples\SP-Piano 093L.wav
 lokey=92 hikey=93
 pitch_keycenter=93
 lovel=1 hivel=127
+ampeg_release=9.99818
 offset=0
 end=244583
 loop_start=0
@@ -922,6 +935,7 @@ sample=samples\SP-Piano 095L.wav
 lokey=94 hikey=95
 pitch_keycenter=95
 lovel=1 hivel=127
+ampeg_release=9.99818
 offset=0
 end=137517
 loop_start=0
@@ -932,6 +946,7 @@ sample=samples\SP-Piano 096L.wav
 lokey=96 hikey=96
 pitch_keycenter=96
 lovel=1 hivel=127
+ampeg_release=9.99818
 offset=0
 end=197402
 loop_start=0
@@ -942,6 +957,7 @@ sample=samples\SP-Piano 098L.wav
 lokey=97 hikey=98
 pitch_keycenter=98
 lovel=1 hivel=127
+ampeg_release=9.99818
 offset=0
 end=164026
 loop_start=0
@@ -952,6 +968,7 @@ sample=samples\SP-Piano 100L.wav
 lokey=99 hikey=100
 pitch_keycenter=100
 lovel=1 hivel=127
+ampeg_release=9.99818
 offset=0
 end=157950
 loop_start=0
@@ -962,6 +979,7 @@ sample=samples\SP-Piano 101L.wav
 lokey=101 hikey=101
 pitch_keycenter=101
 lovel=1 hivel=127
+ampeg_release=9.99818
 offset=0
 end=146613
 loop_start=0
@@ -972,6 +990,7 @@ sample=samples\SP-Piano 103L.wav
 lokey=102 hikey=103
 pitch_keycenter=103
 lovel=1 hivel=127
+ampeg_release=9.99818
 offset=0
 end=177662
 loop_start=0
@@ -982,6 +1001,7 @@ sample=samples\SP-Piano 105L.wav
 lokey=104 hikey=105
 pitch_keycenter=105
 lovel=1 hivel=127
+ampeg_release=9.99818
 offset=0
 end=142279
 loop_start=0
@@ -992,6 +1012,7 @@ sample=samples\SP-Piano 107L.wav
 lokey=106 hikey=107
 pitch_keycenter=107
 lovel=1 hivel=127
+ampeg_release=9.99818
 offset=0
 end=132154
 loop_start=0
@@ -999,9 +1020,10 @@ loop_end=132154
 
 <region>
 sample=samples\SP-Piano 108L.wav
-lokey=108 hikey=120
+lokey=108 hikey=127
 pitch_keycenter=108
 lovel=1 hivel=127
+ampeg_release=9.99818
 offset=0
 end=140123
 loop_start=0
