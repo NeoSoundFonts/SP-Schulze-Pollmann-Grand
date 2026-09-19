@@ -1,0 +1,538 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : Schulze Pollmann p.sf2
+// Author    : Simone Piervergili
+// Copyright : Libre
+// Date      : 2026/09/19
+// Comment   : 
+
+<group>
+amplfo_freq=5.00104
+fillfo_freq=5.00104
+pitchlfo_freq=5.00104
+ampeg_release=1.20025
+loop_mode=no_loop
+ampeg_attack=0.001
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\SP-Piano-p 023.wav
+volume=3
+lokey=0 hikey=23
+pitch_keycenter=23
+transpose=-1
+offset=0
+end=238510
+loop_start=0
+loop_end=238510
+
+<region>
+sample=samples\SP-Piano-p 024.wav
+volume=3
+lokey=24 hikey=24
+pitch_keycenter=24
+offset=0
+end=190992
+loop_start=0
+loop_end=190992
+
+<region>
+sample=samples\SP-Piano-p 026.wav
+volume=3
+lokey=25 hikey=26
+pitch_keycenter=26
+offset=0
+end=171235
+loop_start=0
+loop_end=171235
+
+<region>
+sample=samples\SP-Piano-p 028.wav
+volume=3
+lokey=27 hikey=28
+pitch_keycenter=28
+offset=0
+end=218141
+loop_start=0
+loop_end=218141
+
+<region>
+sample=samples\SP-Piano-p 029.wav
+volume=3
+lokey=29 hikey=29
+pitch_keycenter=29
+offset=0
+end=168596
+loop_start=0
+loop_end=168596
+
+<region>
+sample=samples\SP-Piano-p 031.wav
+volume=3
+lokey=30 hikey=31
+pitch_keycenter=31
+offset=0
+end=196770
+loop_start=0
+loop_end=196770
+
+<region>
+sample=samples\SP-Piano-p 033.wav
+volume=3
+lokey=32 hikey=33
+pitch_keycenter=33
+offset=0
+end=186923
+loop_start=0
+loop_end=186923
+
+<region>
+sample=samples\SP-Piano-p 035.wav
+volume=3
+lokey=34 hikey=35
+pitch_keycenter=35
+offset=0
+end=204764
+loop_start=0
+loop_end=204764
+
+<region>
+sample=samples\SP-Piano-p 036.wav
+volume=3
+lokey=36 hikey=36
+pitch_keycenter=36
+offset=0
+end=175599
+loop_start=0
+loop_end=175599
+
+<region>
+sample=samples\SP-Piano-p 038.wav
+volume=3
+lokey=37 hikey=38
+pitch_keycenter=38
+offset=0
+end=167599
+loop_start=0
+loop_end=167599
+
+<region>
+sample=samples\SP-Piano-p 040.wav
+volume=3
+lokey=39 hikey=40
+pitch_keycenter=40
+offset=0
+end=204101
+loop_start=0
+loop_end=204101
+
+<region>
+sample=samples\SP-Piano-p 041.wav
+volume=3
+lokey=41 hikey=41
+pitch_keycenter=41
+offset=0
+end=159072
+loop_start=0
+loop_end=159072
+
+<region>
+sample=samples\SP-Piano-p 043.wav
+volume=3
+lokey=42 hikey=43
+pitch_keycenter=43
+offset=0
+end=176153
+loop_start=0
+loop_end=176153
+
+<region>
+sample=samples\SP-Piano-p 045.wav
+volume=3
+lokey=44 hikey=45
+pitch_keycenter=45
+offset=0
+end=167442
+loop_start=0
+loop_end=167442
+
+<region>
+sample=samples\SP-Piano-p 047.wav
+volume=3
+lokey=46 hikey=47
+pitch_keycenter=47
+offset=0
+end=147974
+loop_start=0
+loop_end=147974
+
+<region>
+sample=samples\SP-Piano-p 048.wav
+volume=3
+lokey=48 hikey=48
+pitch_keycenter=48
+offset=0
+end=174287
+loop_start=0
+loop_end=174287
+
+<region>
+sample=samples\SP-Piano-p 050.wav
+volume=3
+lokey=49 hikey=50
+pitch_keycenter=50
+offset=0
+end=163064
+loop_start=0
+loop_end=163064
+
+<region>
+sample=samples\SP-Piano-p 052.wav
+volume=3
+lokey=51 hikey=52
+pitch_keycenter=52
+offset=0
+end=149652
+loop_start=0
+loop_end=149652
+
+<region>
+sample=samples\SP-Piano-p 053.wav
+volume=3
+lokey=53 hikey=53
+pitch_keycenter=53
+offset=0
+end=185163
+loop_start=0
+loop_end=185163
+
+<region>
+sample=samples\SP-Piano-p 055.wav
+volume=3
+lokey=54 hikey=55
+pitch_keycenter=55
+offset=0
+end=167932
+loop_start=0
+loop_end=167932
+
+<region>
+sample=samples\SP-Piano-p 057.wav
+volume=3
+lokey=56 hikey=57
+pitch_keycenter=57
+offset=0
+end=144726
+loop_start=0
+loop_end=144726
+
+<region>
+sample=samples\SP-Piano-p 059.wav
+volume=3
+lokey=58 hikey=59
+pitch_keycenter=59
+offset=0
+end=163599
+loop_start=0
+loop_end=163599
+
+<region>
+sample=samples\SP-Piano-p 060.wav
+volume=3
+lokey=60 hikey=60
+pitch_keycenter=60
+offset=0
+end=168406
+loop_start=0
+loop_end=168406
+
+<region>
+sample=samples\SP-Piano-p 062.wav
+volume=3
+lokey=61 hikey=62
+pitch_keycenter=62
+offset=0
+end=157602
+loop_start=0
+loop_end=157602
+
+<region>
+sample=samples\SP-Piano-p 064.wav
+volume=3
+lokey=63 hikey=64
+pitch_keycenter=64
+offset=0
+end=164920
+loop_start=0
+loop_end=164920
+
+<region>
+sample=samples\SP-Piano-p 065.wav
+volume=3
+lokey=65 hikey=65
+pitch_keycenter=65
+offset=0
+end=168671
+loop_start=0
+loop_end=168671
+
+<region>
+sample=samples\SP-Piano-p 067.wav
+volume=3
+lokey=66 hikey=67
+pitch_keycenter=67
+offset=0
+end=162111
+loop_start=0
+loop_end=162111
+
+<region>
+sample=samples\SP-Piano-p 069.wav
+volume=3
+lokey=68 hikey=69
+pitch_keycenter=69
+offset=0
+end=184055
+loop_start=0
+loop_end=184055
+
+<region>
+sample=samples\SP-Piano-p 071.wav
+volume=3
+lokey=70 hikey=71
+pitch_keycenter=71
+offset=0
+end=175271
+loop_start=0
+loop_end=175271
+
+<region>
+sample=samples\SP-Piano-p 072.wav
+volume=3
+lokey=72 hikey=72
+pitch_keycenter=72
+offset=0
+end=187580
+loop_start=0
+loop_end=187580
+
+<region>
+sample=samples\SP-Piano-p 074.wav
+volume=3
+lokey=73 hikey=74
+pitch_keycenter=74
+offset=0
+end=165660
+loop_start=0
+loop_end=165660
+
+<region>
+sample=samples\SP-Piano-p 076.wav
+volume=3
+lokey=75 hikey=76
+pitch_keycenter=76
+offset=0
+end=165325
+loop_start=0
+loop_end=165325
+
+<region>
+sample=samples\SP-Piano-p 077.wav
+volume=3
+lokey=77 hikey=77
+pitch_keycenter=77
+offset=0
+end=157896
+loop_start=0
+loop_end=157896
+
+<region>
+sample=samples\SP-Piano-p 079.wav
+volume=3
+lokey=78 hikey=79
+pitch_keycenter=79
+offset=0
+end=154931
+loop_start=0
+loop_end=154931
+
+<region>
+sample=samples\SP-Piano-p 081.wav
+volume=3
+lokey=80 hikey=81
+pitch_keycenter=81
+offset=0
+end=173704
+loop_start=0
+loop_end=173704
+
+<region>
+sample=samples\SP-Piano-p 083.wav
+volume=3
+lokey=82 hikey=83
+pitch_keycenter=83
+offset=0
+end=191214
+loop_start=0
+loop_end=191214
+
+<region>
+sample=samples\SP-Piano-p 084.wav
+volume=3
+lokey=84 hikey=84
+pitch_keycenter=84
+offset=0
+end=150377
+loop_start=0
+loop_end=150377
+
+<region>
+sample=samples\SP-Piano-p 086.wav
+volume=3
+lokey=85 hikey=86
+pitch_keycenter=86
+offset=0
+end=134571
+loop_start=0
+loop_end=134571
+
+<region>
+sample=samples\SP-Piano-p 088.wav
+volume=3
+lokey=87 hikey=88
+pitch_keycenter=88
+offset=0
+end=195703
+loop_start=0
+loop_end=195703
+
+<region>
+sample=samples\SP-Piano-p 089.wav
+volume=3
+lokey=89 hikey=89
+pitch_keycenter=89
+offset=0
+end=163200
+loop_start=0
+loop_end=163200
+
+<region>
+sample=samples\SP-Piano-p 091.wav
+volume=3
+lokey=90 hikey=91
+pitch_keycenter=91
+ampeg_release=9.99818
+offset=0
+end=161874
+loop_start=0
+loop_end=161874
+
+<region>
+sample=samples\SP-Piano-p 093.wav
+volume=3
+lokey=92 hikey=93
+pitch_keycenter=93
+ampeg_release=9.99818
+offset=0
+end=139153
+loop_start=0
+loop_end=139153
+
+<region>
+sample=samples\SP-Piano-p 095.wav
+volume=3
+lokey=94 hikey=95
+pitch_keycenter=95
+ampeg_release=9.99818
+offset=0
+end=103469
+loop_start=0
+loop_end=103469
+
+<region>
+sample=samples\SP-Piano-p 096.wav
+volume=3
+lokey=96 hikey=96
+pitch_keycenter=96
+ampeg_release=9.99818
+offset=0
+end=61685
+loop_start=0
+loop_end=61685
+
+<region>
+sample=samples\SP-Piano-p 098.wav
+volume=3
+lokey=97 hikey=98
+pitch_keycenter=98
+ampeg_release=9.99818
+offset=0
+end=62858
+loop_start=0
+loop_end=62858
+
+<region>
+sample=samples\SP-Piano-p 100.wav
+volume=3
+lokey=99 hikey=100
+pitch_keycenter=100
+ampeg_release=9.99818
+offset=0
+end=38254
+loop_start=0
+loop_end=38254
+
+<region>
+sample=samples\SP-Piano-p 101.wav
+volume=3
+lokey=101 hikey=101
+pitch_keycenter=101
+ampeg_release=9.99818
+offset=0
+end=40582
+loop_start=0
+loop_end=40582
+
+<region>
+sample=samples\SP-Piano-p 103.wav
+volume=3
+lokey=102 hikey=103
+pitch_keycenter=103
+ampeg_release=9.99818
+offset=0
+end=55681
+loop_start=0
+loop_end=55681
+
+<region>
+sample=samples\SP-Piano-p 105.wav
+volume=3
+lokey=104 hikey=105
+pitch_keycenter=105
+ampeg_release=9.99818
+offset=0
+end=24761
+loop_start=0
+loop_end=24761
+
+<region>
+sample=samples\SP-Piano-p 107.wav
+volume=3
+lokey=106 hikey=107
+pitch_keycenter=107
+ampeg_release=9.99818
+offset=0
+end=37014
+loop_start=0
+loop_end=37014
+
+<region>
+sample=samples\SP-Piano-p 108.wav
+volume=3
+lokey=108 hikey=127
+pitch_keycenter=108
+ampeg_release=9.99818
+offset=0
+end=44572
+loop_start=0
+loop_end=44572
